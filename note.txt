@@ -21,3 +21,16 @@ package.json		=> Records our project dependencies and configures our project.
 package-lock.json | => Records the exact version of packages that we install. 
 yarn.lock		  |
 README.md 			=> Instructions on how to use this project 
+
+Stop and start react:
+$ npm start
+$ Ctrl + C => stop application.
+
+
+         {the variable we want to assign}
+	        ||          {the name of the dependencies or file we are importing}
+			||             ||	 
+| import | React | from | 'react'|
+   ||						||
+   || 				     {we want to get code from some other file or dependencies}
+{we want to get code from some other file or dependency}
