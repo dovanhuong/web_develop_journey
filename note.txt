@@ -1,0 +1,23 @@
+#create by Tony DO
+#date: 2024.03.29
+
+React Node processing
+ $ npm install -g create-react-app 
+ $ create-react-app <name-app> 
+	Ex: $create-react-app first-app
+ $ npx create-react-app {name of the project}
+ 
+		  { ===> webpack
+{create-react-app}{ ===> babel
+		  { ===> dev server 
+
+
+# Project Directory
+
+src 				=> Folder where we put all the source code we write
+public 				=> Folder that stores static files, like images, music
+node_modules		=> Folder that contains all of our project dependencies 
+package.json		=> Records our project dependencies and configures our project.
+package-lock.json | => Records the exact version of packages that we install. 
+yarn.lock		  |
+README.md 			=> Instructions on how to use this project 
